@@ -1,0 +1,4 @@
+diff id:000016,src:000000,op:flip1,pos:32,+cov -> id:000017,src:000000,op:flip1,pos:32,+cov
+Src file: /home/zt/copy/binutils_fuzz_output/binutils/objdump.c
+  New 'line' coverage: 3903
+  New 'line' coverage: 3904

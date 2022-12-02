@@ -1,0 +1,4 @@
+diff id:000033,src:000000,op:havoc,rep:64 -> id:000034,src:000000,op:havoc,rep:16,+cov
+Src file: /home/zt/copy/binutils_fuzz_output/binutils/objcopy.c
+  New 'line' coverage: 2485
+  New 'line' coverage: 2487

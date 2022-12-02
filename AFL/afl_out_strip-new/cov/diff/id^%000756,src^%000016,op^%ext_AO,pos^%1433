@@ -1,0 +1,11 @@
+diff id:000755,src:000016,op:arith8,pos:56,val:+34 -> id:000756,src:000016,op:ext_AO,pos:1433
+Src file: /home/zt/copy/binutils_fuzz_output/binutils/objcopy.c
+  New 'function' coverage: group_signature()
+  New 'line' coverage: 1213
+  New 'line' coverage: 1215
+  New 'line' coverage: 1219
+  New 'line' coverage: 1220
+  New 'line' coverage: 1358
+  New 'line' coverage: 1360
+  New 'line' coverage: 1361
+  New 'line' coverage: 3916

@@ -1,0 +1,18 @@
+diff id:000006,orig:hash.o -> id:000007,orig:small_exec.elf
+Src file: /home/zt/copy/binutils_fuzz_output/binutils/bucomm.c
+  New 'function' coverage: non_fatal()
+  New 'function' coverage: report()
+  New 'line' coverage: 113
+  New 'line' coverage: 115
+  New 'line' coverage: 116
+  New 'line' coverage: 117
+  New 'line' coverage: 118
+  New 'line' coverage: 119
+  New 'line' coverage: 134
+  New 'line' coverage: 138
+  New 'line' coverage: 140
+  New 'line' coverage: 141
+  New 'line' coverage: 142
+Src file: /home/zt/copy/binutils_fuzz_output/binutils/nm.c
+  New 'line' coverage: 1121
+  New 'line' coverage: 1122

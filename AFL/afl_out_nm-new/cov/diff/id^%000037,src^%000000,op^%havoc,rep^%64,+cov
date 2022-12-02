@@ -1,0 +1,6 @@
+diff id:000036,src:000000,op:havoc,rep:128,+cov -> id:000037,src:000000,op:havoc,rep:64,+cov
+Src file: /home/zt/copy/binutils_fuzz_output/binutils/nm.c
+  New 'line' coverage: 423
+  New 'line' coverage: 425
+  New 'line' coverage: 583
+  New 'line' coverage: 585

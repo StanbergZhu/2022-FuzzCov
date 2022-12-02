@@ -1,0 +1,4 @@
+diff id:000092,src:000002,op:flip1,pos:3230,+cov -> id:000093,src:000002,op:flip1,pos:3232,+cov
+Src file: /home/zt/copy/binutils_fuzz_output/binutils/objcopy.c
+  New 'line' coverage: 1283
+  New 'line' coverage: 3924

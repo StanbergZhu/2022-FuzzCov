@@ -1,0 +1,20 @@
+diff id:000032,src:000000,op:int32,pos:0,val:be:+65535,+cov -> id:000033,src:000000,op:havoc,rep:64
+Src file: /home/zt/copy/binutils_fuzz_output/binutils/rename.c
+  New 'line' coverage: 170
+  New 'line' coverage: 171
+  New 'line' coverage: 173
+  New 'line' coverage: 187
+  New 'line' coverage: 188
+  New 'line' coverage: 189
+Src file: /home/zt/copy/binutils_fuzz_output/binutils/objcopy.c
+  New 'line' coverage: 2562
+  New 'line' coverage: 2565
+  New 'line' coverage: 2566
+  New 'line' coverage: 2572
+  New 'line' coverage: 3599
+Src file: /home/zt/copy/binutils_fuzz_output/binutils/bucomm.c
+  New 'function' coverage: bfd_get_archive_filename()
+  New 'line' coverage: 627
+  New 'line' coverage: 633
+  New 'line' coverage: 635
+  New 'line' coverage: 637

@@ -1,0 +1,4 @@
+diff id:000000,orig:small_exec.elf -> id:000001,orig:test
+Src file: /home/zt/copy/binutils_fuzz_output/binutils/readelf.c
+  New 'line' coverage: 5350
+  New 'line' coverage: 5352

@@ -1,0 +1,13 @@
+# id:NNNNNN*_file, cycle, src_file, coverage_type, fcn/line
+id:000000,orig:1, 0, /home/zt/copy/binutils_fuzz_output/binutils/size.c, function, display_bfd()
+id:000000,orig:1, 0, /home/zt/copy/binutils_fuzz_output/binutils/size.c, function, display_file()
+id:000000,orig:1, 0, /home/zt/copy/binutils_fuzz_output/binutils/size.c, function, main()
+id:000000,orig:1, 0, /home/zt/copy/binutils_fuzz_output/binutils/size.c, function, usage()
+id:000000,orig:1, 0, /home/zt/copy/binutils_fuzz_output/binutils/bucomm.c, function, bfd_nonfatal()
+id:000000,orig:1, 0, /home/zt/copy/binutils_fuzz_output/binutils/bucomm.c, function, get_file_size()
+id:000000,orig:1, 0, /home/zt/copy/binutils_fuzz_output/binutils/bucomm.c, function, list_supported_targets()
+id:000000,orig:1, 0, /home/zt/copy/binutils_fuzz_output/binutils/bucomm.c, function, set_default_bfd_target()
+id:000004,orig:cxxfilt.o, 0, /home/zt/copy/binutils_fuzz_output/binutils/size.c, function, berkeley_sum()
+id:000004,orig:cxxfilt.o, 0, /home/zt/copy/binutils_fuzz_output/binutils/size.c, function, print_berkeley_format()
+id:000004,orig:cxxfilt.o, 0, /home/zt/copy/binutils_fuzz_output/binutils/size.c, function, print_sizes()
+id:000004,orig:cxxfilt.o, 0, /home/zt/copy/binutils_fuzz_output/binutils/size.c, function, rprint_number()

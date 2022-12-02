@@ -1,0 +1,3 @@
+# environment variables:
+# command line:
+'/home/xingjunjie/fuzz/AFLplusplus/afl-fuzz' '-i' 'in' '-o' 'out_cxxfilt' '-m' 'none' './binutils-2.39/binutils/cxxfilt' '@@'

@@ -1,0 +1,9 @@
+diff id:000103,src:000001,op:flip1,pos:8156,+cov -> id:000104,src:000001,op:flip1,pos:15992,+cov
+Src file: /home/zt/copy/binutils_fuzz_output/binutils/bucomm.c
+  New 'function' coverage: bfd_fatal()
+  New 'line' coverage: 106
+  New 'line' coverage: 108
+  New 'line' coverage: 109
+Src file: /home/zt/copy/binutils_fuzz_output/binutils/nm.c
+  New 'line' coverage: 1129
+  New 'line' coverage: 1135

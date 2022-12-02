@@ -1,0 +1,4 @@
+diff id:000357,src:000001,op:arith8,pos:16940,val:+14,+cov -> id:000358,src:000001,op:arith8,pos:17128,val:+30,+cov
+Src file: /home/zt/copy/binutils_fuzz_output/binutils/nm.c
+  New 'line' coverage: 1140
+  New 'line' coverage: 1141

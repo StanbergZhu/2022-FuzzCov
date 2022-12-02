@@ -1,0 +1,199 @@
+# All functions / lines in this file were executed by at
+# least one AFL test case. See the cov/id-delta-cov file
+# for more information.
+File: /home/zt/copy/binutils_fuzz_output/include/elf/nds32.h
+File: /home/zt/copy/binutils_fuzz_output/include/elf/fr30.h
+File: /home/zt/copy/binutils_fuzz_output/binutils/filemode.c
+File: /home/zt/copy/binutils_fuzz_output/include/elf/moxie.h
+File: /home/zt/copy/binutils_fuzz_output/include/elf/m32c.h
+File: /home/zt/copy/binutils_fuzz_output/binutils/rename.c
+File: /home/zt/copy/binutils_fuzz_output/binutils/elfcomm.c
+    function: byte_get_big_endian()
+    function: byte_get_little_endian()
+    function: byte_get_signed()
+    function: error()
+    function: warn()
+File: /home/zt/copy/binutils_fuzz_output/include/elf/rx.h
+File: /home/zt/copy/binutils_fuzz_output/binutils/cxxfilt.c
+File: /home/zt/copy/binutils_fuzz_output/binutils/unwind-ia64.c
+File: /home/zt/copy/binutils_fuzz_output/include/elf/avr.h
+File: /home/zt/copy/binutils_fuzz_output/include/elf/epiphany.h
+File: /home/zt/copy/binutils_fuzz_output/include/elf/x86-64.h
+File: /home/zt/copy/binutils_fuzz_output/include/elf/d10v.h
+File: /home/zt/copy/binutils_fuzz_output/include/elf/dlx.h
+File: /home/zt/copy/binutils_fuzz_output/binutils/size.c
+File: /home/zt/copy/binutils_fuzz_output/include/elf/m68k.h
+    function: elf_m68k_reloc_type()
+File: /home/zt/copy/binutils_fuzz_output/include/elf/mips.h
+    function: elf_mips_reloc_type()
+File: /home/zt/copy/binutils_fuzz_output/binutils/ar.c
+File: /home/zt/copy/binutils_fuzz_output/include/elf/v850.h
+File: /home/zt/copy/binutils_fuzz_output/include/elf/msp430.h
+File: /home/zt/copy/binutils_fuzz_output/include/elf/tic6x.h
+File: /home/zt/copy/binutils_fuzz_output/binutils/strings.c
+File: /home/zt/copy/binutils_fuzz_output/include/elf/sparc.h
+    function: elf_sparc_reloc_type()
+File: /home/zt/copy/binutils_fuzz_output/include/elf/xc16x.h
+File: /home/zt/copy/binutils_fuzz_output/include/elf/arc-reloc.def
+File: /home/zt/copy/binutils_fuzz_output/include/elf/visium.h
+File: /home/zt/copy/binutils_fuzz_output/include/elf/ip2k.h
+File: /home/zt/copy/binutils_fuzz_output/binutils/prdbg.c
+File: /home/zt/copy/binutils_fuzz_output/binutils/rdcoff.c
+File: /home/zt/copy/binutils_fuzz_output/include/elf/pj.h
+    function: elf_pj_reloc_type()
+File: /home/zt/copy/binutils_fuzz_output/include/elf/sh.h
+File: /home/zt/copy/binutils_fuzz_output/binutils/dwarf.c
+    function: cmalloc()
+    function: free_abbrevs()
+    function: free_debug_memory()
+    function: init_dwarf_regnames()
+    function: init_dwarf_regnames_i386()
+    function: init_dwarf_regnames_iamcu()
+    function: init_dwarf_regnames_riscv()
+    function: init_dwarf_regnames_s390()
+    function: init_dwarf_regnames_x86_64()
+    function: load_separate_debug_file()
+File: /home/zt/copy/binutils_fuzz_output/include/elf/spu.h
+File: /home/zt/copy/binutils_fuzz_output/binutils/objcopy.c
+File: /home/zt/copy/binutils_fuzz_output/binutils/readelf.c
+    function: apply_relocations()
+    function: arm_process_unwind()
+    function: bfd_vmatoa()
+    function: decode_ARM_machine_flags()
+    function: dump_relocations()
+    function: find_section()
+    function: free_debug_section()
+    function: get_32bit_dynamic_section()
+    function: get_32bit_elf_symbols()
+    function: get_32bit_program_headers()
+    function: get_32bit_section_headers()
+    function: get_64bit_program_headers()
+    function: get_64bit_section_headers()
+    function: get_data()
+    function: get_data_encoding()
+    function: get_elf_class()
+    function: get_elf_section_flags()
+    function: get_file_header()
+    function: get_file_type()
+    function: get_machine_flags()
+    function: get_machine_name()
+    function: get_osabi_name()
+    function: get_program_headers()
+    function: get_reloc_symindex()
+    function: get_reloc_type()
+    function: get_section_contents()
+    function: get_section_type_name()
+    function: get_segment_type()
+    function: get_symbol_binding()
+    function: get_symbol_index_type()
+    function: get_symbol_other()
+    function: get_symbol_type()
+    function: get_symbol_version_string()
+    function: get_symbol_visibility()
+    function: hppa_process_unwind()
+    function: is_ia64_vms()
+    function: main()
+    function: parse_args()
+    function: print_symbol()
+    function: print_vma()
+    function: printable_section_name()
+    function: process_arch_specific()
+    function: process_attributes()
+    function: process_corefile_note_segments()
+    function: process_dynamic_section()
+    function: process_file()
+    function: process_file_header()
+    function: process_gnu_liblist()
+    function: process_mips_specific()
+    function: process_note_sections()
+    function: process_notes()
+    function: process_notes_at()
+    function: process_object()
+    function: process_program_headers()
+    function: process_relocs()
+    function: process_section_contents()
+    function: process_section_groups()
+    function: process_section_headers()
+    function: process_symbol_table()
+    function: process_syminfo()
+    function: process_unwind()
+    function: process_version_sections()
+    function: slurp_rel_relocs()
+    function: slurp_rela_relocs()
+    function: usage()
+File: /home/zt/copy/binutils_fuzz_output/include/elf/mn10300.h
+File: /home/zt/copy/binutils_fuzz_output/include/elf/ppc64.h
+File: /home/zt/copy/binutils_fuzz_output/binutils/stabs.c
+File: /home/zt/copy/binutils_fuzz_output/include/elf/or1k.h
+File: /home/zt/copy/binutils_fuzz_output/include/elf/lm32.h
+File: /home/zt/copy/binutils_fuzz_output/include/elf/arm.h
+File: /home/zt/copy/binutils_fuzz_output/include/elf/hppa.h
+    function: elf_hppa_reloc_type()
+File: /home/zt/copy/binutils_fuzz_output/include/elf/csky.h
+    function: elf_csky_reloc_type()
+File: /home/zt/copy/binutils_fuzz_output/bfd/bfd.h
+File: /home/zt/copy/binutils_fuzz_output/include/elf/i370.h
+    function: i370_reloc_type()
+File: /home/zt/copy/binutils_fuzz_output/include/elf/cris.h
+File: /home/zt/copy/binutils_fuzz_output/include/elf/nios2.h
+File: /home/zt/copy/binutils_fuzz_output/include/elf/vax.h
+File: /home/zt/copy/binutils_fuzz_output/binutils/bfdtest1.c
+File: /home/zt/copy/binutils_fuzz_output/binutils/addr2line.c
+File: /home/zt/copy/binutils_fuzz_output/include/elf/alpha.h
+File: /home/zt/copy/binutils_fuzz_output/include/elf/frv.h
+File: /home/zt/copy/binutils_fuzz_output/include/elf/mmix.h
+File: /home/zt/copy/binutils_fuzz_output/binutils/arsup.c
+File: /home/zt/copy/binutils_fuzz_output/binutils/arlex.c
+File: /home/zt/copy/binutils_fuzz_output/binutils/arparse.y
+File: /home/zt/copy/binutils_fuzz_output/binutils/arlex.l
+File: /home/zt/copy/binutils_fuzz_output/include/elf/m68hc11.h
+File: /home/zt/copy/binutils_fuzz_output/include/elf/tilegx.h
+File: /home/zt/copy/binutils_fuzz_output/include/elf/iq2000.h
+File: /home/zt/copy/binutils_fuzz_output/binutils/arparse.c
+File: /home/zt/copy/binutils_fuzz_output/include/elf/cr16.h
+File: /home/zt/copy/binutils_fuzz_output/binutils/version.c
+File: /home/zt/copy/binutils_fuzz_output/include/elf/tilepro.h
+File: /home/zt/copy/binutils_fuzz_output/include/elf/metag.h
+File: /home/zt/copy/binutils_fuzz_output/include/elf/ft32.h
+File: /home/zt/copy/binutils_fuzz_output/include/elf/i960.h
+    function: elf_i960_reloc_type()
+File: /home/zt/copy/binutils_fuzz_output/include/elf/pru.h
+File: /home/zt/copy/binutils_fuzz_output/include/elf/xtensa.h
+File: /home/zt/copy/binutils_fuzz_output/include/elf/mep.h
+File: /home/zt/copy/binutils_fuzz_output/include/elf/score.h
+File: /home/zt/copy/binutils_fuzz_output/include/elf/microblaze.h
+File: /home/zt/copy/binutils_fuzz_output/include/elf/rl78.h
+File: /home/zt/copy/binutils_fuzz_output/binutils/bfdtest2.c
+File: /home/zt/copy/binutils_fuzz_output/binutils/elfedit.c
+File: /home/zt/copy/binutils_fuzz_output/include/elf/s12z.h
+File: /home/zt/copy/binutils_fuzz_output/binutils/debug.c
+File: /home/zt/copy/binutils_fuzz_output/include/elf/ia64.h
+File: /home/zt/copy/binutils_fuzz_output/include/elf/h8.h
+File: /home/zt/copy/binutils_fuzz_output/include/elf/s390.h
+File: /home/zt/copy/binutils_fuzz_output/binutils/objdump.c
+File: /home/zt/copy/binutils_fuzz_output/include/elf/d30v.h
+File: /home/zt/copy/binutils_fuzz_output/include/elf/mcore.h
+File: /home/zt/copy/binutils_fuzz_output/include/elf/xstormy16.h
+File: /home/zt/copy/binutils_fuzz_output/binutils/bucomm.c
+File: /home/zt/copy/binutils_fuzz_output/include/elf/riscv.h
+    function: elf_riscv_reloc_type()
+File: /home/zt/copy/binutils_fuzz_output/include/elf/m32r.h
+File: /home/zt/copy/binutils_fuzz_output/binutils/rddbg.c
+File: /home/zt/copy/binutils_fuzz_output/include/elf/i860.h
+    function: elf_i860_reloc_type()
+File: /home/zt/copy/binutils_fuzz_output/include/elf/ppc.h
+File: /home/zt/copy/binutils_fuzz_output/include/elf/nfp.h
+File: /home/zt/copy/binutils_fuzz_output/include/elf/aarch64.h
+File: /home/zt/copy/binutils_fuzz_output/include/elf/mn10200.h
+File: /home/zt/copy/binutils_fuzz_output/include/elf/crx.h
+File: /home/zt/copy/binutils_fuzz_output/binutils/binemul.c
+File: /home/zt/copy/binutils_fuzz_output/include/elf/i386.h
+    function: elf_i386_reloc_type()
+File: /home/zt/copy/binutils_fuzz_output/binutils/nm.c
+File: /home/zt/copy/binutils_fuzz_output/include/elf/xgate.h
+File: /home/zt/copy/binutils_fuzz_output/include/elf/wasm32.h
+File: /home/zt/copy/binutils_fuzz_output/include/elf/arc.h
+    function: elf_arc_reloc_type()
+File: /home/zt/copy/binutils_fuzz_output/include/elf/mt.h
+File: /home/zt/copy/binutils_fuzz_output/binutils/wrstabs.c
+File: /home/zt/copy/binutils_fuzz_output/include/elf/bfin.h

@@ -1,0 +1,17 @@
+diff id:000082,src:000002,op:flip1,pos:2784,+cov -> id:000083,src:000002,op:flip1,pos:2788,+cov
+Src file: /home/zt/copy/binutils_fuzz_output/binutils/objcopy.c
+  New 'line' coverage: 3910
+  New 'line' coverage: 4112
+  New 'line' coverage: 4113
+  New 'line' coverage: 4114
+  New 'line' coverage: 4115
+  New 'line' coverage: 4177
+  New 'line' coverage: 4178
+  New 'line' coverage: 4179
+  New 'line' coverage: 4180
+Src file: /home/zt/copy/binutils_fuzz_output/binutils/bucomm.c
+  New 'line' coverage: 86
+  New 'line' coverage: 87
+  New 'line' coverage: 88
+  New 'line' coverage: 89
+  New 'line' coverage: 92
